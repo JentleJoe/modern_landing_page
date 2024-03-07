@@ -2,7 +2,7 @@ import { people01, people02, people03, quotes } from "../assets"
 
 const FeedbackCard = ({ img, name, title, content, styles }) => {
   return (
-    <div className={`feedback-card max-w-[370px] h-[395px] min-w-[279px] min-h-[395] flex-1
+    <div className={`feedback-card cursor-pointer max-w-[370px] h-[395px] min-w-[279px] min-h-[395] flex-1
      rounded-[20px] px-[40px] py-[60px] flex flex-col justify-center`}
      >
       <img src={quotes} alt="quote-img" className="mb-10 h-[29px] w-[43px] " />
