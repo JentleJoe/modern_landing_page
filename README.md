@@ -2,7 +2,7 @@
 
 An online banking landing page with a focus on **modern UI design trends** and a **rich user experience**.
 
-## 🚀 Preview
+## 📸 Preview
 ![Online Bank Website Preview](https://github.com/JentleJoe/my_portfolio/blob/master/src/assets/img/joebank.png)
 
 ## 🚀 Key Features
